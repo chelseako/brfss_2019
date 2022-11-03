@@ -5,7 +5,7 @@
 * R (ggplot2)
 * Tableau
 
-## Multi-Dimensional Scaling Average Number of Poor Health Days by State
+## Multi-Dimensional Scaling - Average Number of Poor Health Days by State
 ![Multi-Dimensional Scaling](https://github.com/chelseako/brfss_2019/blob/main/MDS_State_Avg_Bad_Health_Days.png)
 ### Data processing and visualization
 * Aggregated the BRFSS 2019 data by state and calculated the average number of:
@@ -32,7 +32,7 @@ The visualization displays a cluster of southern states on the right side of the
 ### Analysis
 The choropleth shows the states' percent with health insurance, with darker hues representing a higher percentage.  The animation displays the overall trend of percent with health insurance between 2011 through 2019 in the United States.  The states darken each year from 2011 through 2015, indicating a greater proportion of people have health insurance. In 2016, it appears that some states' percentages increased while others decreased compared to 2015. From 2017 through 2019, the U.S. overall becomes lighter, indicating a decreasing trend in the proportion of people with health insurance. 
 
-## Dot Chart - Access to Health Care and Poor Health Days
+## Dot Chart Infographic - Access to Health Care and Poor Health Days
 ![Access to health care inforgraphic](https://github.com/chelseako/brfss_2019/blob/main/healthCareAccess_infographic.png)
 ### Data processing and visualization
 * Calculated average number of poor health days per month for those with and without the specified health care access
