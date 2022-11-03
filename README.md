@@ -11,7 +11,7 @@
 * Aggregated the BRFSS 2019 data by state and calculated the average number of:
     1. Bad mental health days
     2. Bad physical health days
-    3. Days unable to do daily activities due to poor health
+    3. Days unable to complete daily living activities due to poor health
 * Created multi-dimensional scaling coordinates and plotted using geom_point() and geom_label()
 * Color coded labels according to region (West, Midwest, Northeast, South, Guam, and Puerto Rico)
 * Shifted labels to avoid overlap
