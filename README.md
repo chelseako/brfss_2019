@@ -6,7 +6,7 @@
 * Tableau
 
 ## Multi-Dimensional Scaling - Average Number of Poor Health Days by State
-![Multi-Dimensional Scaling](https://github.com/chelseako/health_care_access/images/MDS_State_Avg_Bad_Health_Days.png)
+![Multi-Dimensional Scaling](/images/MDS_State_Avg_Bad_Health_Days.png)
 ### Data processing and visualization
 * Aggregated the BRFSS 2019 data by state and calculated the average number of:
     1. Bad mental health days
@@ -21,7 +21,7 @@ The visualization displays a cluster of southern states on the right side of the
 
 ## Choropleth - States' Percent with Health Insurance
 
-![Percent with health insurance](https://github.com/chelseako/health_care_access/images/statePercentHealthInsurance2019.png)
+![Percent with health insurance](/images/statePercentHealthInsurance2019.png)
 
 ### [Link to choropleth animation video](https://youtu.be/acC3c1pTr3k)
 ### Data processing and visualization
@@ -33,7 +33,7 @@ The visualization displays a cluster of southern states on the right side of the
 The choropleth shows the states' percent with health insurance, with darker hues representing a higher percentage.  The animation displays the overall trend of percent with health insurance between 2011 through 2019 in the United States.  The states darken each year from 2011 through 2015, indicating a greater proportion of people have health insurance. In 2016, it appears that some states' percentages increased while others decreased compared to 2015. From 2017 through 2019, the U.S. overall becomes lighter, indicating a decreasing trend in the proportion of people with health insurance. 
 
 ## Dot Chart Infographic - Individuals with Diabetes Access to Health Care and Poor Health Days
-![Access to health care inforgraphic](https://github.com/chelseako/health_care_access/images/healthCareAccess_infographic.png)
+![Access to health care inforgraphic](/images/healthCareAccess_infographic.png)
 ### Data processing and visualization
 * Filtered data for individuals reporting to have diabetes
 * Calculated average number of poor health days per month for those with and without the specified health care access
