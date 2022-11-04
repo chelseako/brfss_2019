@@ -45,3 +45,5 @@ The choropleth shows the states' percent with health insurance, with darker hues
 
 ### Analysis
 The image shows that individuals with diabetes have the greatest disparity in average number of poor mental health days between those with and without health care access.  Further, the ability to afford health care is the access factor that leads to the greatest disparity in poor health days, and whether an individual had a checkup within the past two years produced the second greatest disparity.  Participants who did or did not report having a PCP did not differ on the number of poor physical health days and number of days unable to complete daily living activities due to poor health.  On average, individuals reported approximately the same number of poor physical health days and number of days they were unable to complete activities, which was higher than the average number of poor mental health days.
+
+### [Back to Chelsea Ko's Portfolio](https://chelseako.github.io/Portfolio/)
