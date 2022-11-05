@@ -1,3 +1,5 @@
+![Profile picture](/images/ko3.png) 
+
 # Diabetes and Health Care Access Data Visualizations and Analysis
 2019 Behavioral Risk Factor Surveillance System (BRFSS)
 
